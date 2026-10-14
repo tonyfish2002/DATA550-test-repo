@@ -7,3 +7,7 @@ output: github_document
 # My first commit
 
 text.
+
+# My second commit
+
+more text.
