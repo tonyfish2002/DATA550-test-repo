@@ -6,8 +6,7 @@ output: github_document
 
 # My first commit
 
-text. 
-AAAAND more text.
+text. AAAAND more text.
 
 # My second commit
 
@@ -20,3 +19,7 @@ yea. i added text.
 # My test branch
 
 test text.
+
+# New test
+
+I hope this merge works.
