@@ -22,4 +22,4 @@ test text.
 
 # New test
 
-I hope this merge works.
+I hope this merge works!
