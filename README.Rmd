@@ -11,6 +11,7 @@ I am now adding a new line.
 text1
 text2
 text3
+text4
 
 # My second commit
 
