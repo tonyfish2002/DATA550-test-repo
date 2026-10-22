@@ -4,7 +4,7 @@ Anthony Fisher
 
 # My first commit
 
-text. AAAAND more text. I am now adding a new line.
+text. AAAAND more text. I am now adding a new line. text1 text2
 
 # My second commit
 
