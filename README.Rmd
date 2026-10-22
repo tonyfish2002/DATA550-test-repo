@@ -8,6 +8,7 @@ output: github_document
 
 text. AAAAND more text.
 I am now adding a new line.
+text for another commit
 
 # My second commit
 
